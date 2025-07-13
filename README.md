@@ -8,7 +8,7 @@ This project was originally developed as part of a master's thesis at **HTW Berl
 ## 📡 Features
 
 - Real-time PM2.5 / PM10 monitoring with HM330X
-- GPS-based timestamp and location via u-blox NEO-6M
+- GPS-based location via u-blox NEO-6M
 - LoRaWAN transmission (TTN compatible)
 - OLED display for live data (PM-values/risk based on WHO air quality limits)
 - RGB-LED traffic light
